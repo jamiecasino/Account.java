@@ -1,9 +1,3 @@
-/**
-* Jamie Casino
-* jamiec9981
-* 
-*/
-
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
